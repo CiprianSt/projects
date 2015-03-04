@@ -1,7 +1,7 @@
 Multiplayer cards game -- Cross
 -------------------------------
 
-Project developed with a university colleague (github.com/https://github.com/TeodorPt) in Java.
+Project developed with a university colleague (https://github.com/TeodorPt) in Java.
 
 Please refer to the Presentation.pdf for a brief review of the project. The code is not publicily available, it is held in a private repository.
 
